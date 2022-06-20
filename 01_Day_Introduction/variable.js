@@ -1,17 +1,31 @@
-// Declaring different variables of different data types
-let firstName = 'Asabeneh' // first name of a person
-let lastName = 'Yetayeh' // last name of a person
-let country = 'Finland' // country
-let city = 'Helsinki' // capital city
-let age = 100 // age in years
-let isMarried = true
+//comments can make code readble
+//welcome to 30 days of Javascript 
 
-// Declaring variables with number values
-const gravity = 9.81 // earth gravity  in m/s2
-const boilingPoint = 100 // water boiling point, temperature in oC
-const PI = 3.14 // geometrical constant
+// comments can make code ReadableStream
+// reusable
+// and informative
 
-// Variables can also be declaring in one line separated by comma
-let name = 'Asabeneh', //name of a person
-  job = 'teacher',
-  live = 'Finland'
+ let school = "AkiraChix"
+ console.log(school)
+ let history= true
+ console.log(history)
+ myName=null
+ console.log("myName")
+ let firstname
+ console.log(firstname)
+ console.log(typeof(myName))
+ console.log(school)
+ console.log(history)
+ let number=344
+ let data= false
+ let phoneNumber=  97916750;
+ let myDad= "Karimi"
+ let age 
+ let lastName
+ let theTruth
+ let origin
+ let firstName= "Lucy"
+ let lastNam="Wangeci"
+ let maritalStatus= "Single"
+ let myAge= 22
+ let yourName="Alex",originHome="NAIROBI",youAge=33,yourStatus="Married"
