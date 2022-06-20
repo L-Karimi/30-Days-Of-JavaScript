@@ -7,9 +7,9 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
-<sub>Author:
+<sub>Autore:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
+<small> Gennaio, 2020</small>
 </sub>
 </div>
 </div>
@@ -25,21 +25,21 @@
 
 [<< Day 29](../29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md)
 
-![Thirty Days Of JavaScript](../images/banners/day_1_30.png)
+![Thirty Days Of JavaScript](../../images/banners/day_1_30.png)
 
 - [Day 30](#day-30)
-	- [Exercises](#exercises)
-		- [Exercise: Level 1](#exercise-level-1)
-		- [Exercise: Level 2](#exercise-level-2)
-		- [Exercise: Level 3](#exercise-level-3)
+	- [Esercizi](#exercises)
+		- [Exercise: Livello 1](#exercise-level-1)
+		- [Exercise: Livello 2](#exercise-level-2)
+		- [Exercise: Livello 3](#exercise-level-3)
 	- [Testimony](#testimony)
 	- [Support](#support)
 
 # Day 30
 
-## Exercises
+## Esercizi
 
-### Exercise: Level 1
+### Exercise: Livello 1
 
 1. Create the following animation using (HTML, CSS, JS)
 
@@ -51,11 +51,11 @@
 
    ![form validation](./../images/projects/dom_mini_project_form_validation_day_10.2.png)
 
-### Exercise: Level 2
+### Exercise: Livello 2
 
-### Exercise: Level 3
+### Exercise: Livello 3
 
-🌕 Your journey to greatness completed successfully. You reached high level of greatness. Now, you are much greater than ever before. I knew what it takes to reach to this level and you made to this point. You are a real hero. Now, it is time to celebrate your success with a friend or with a family. I am looking forward to seeing you in an other challenge.
+🌕 Your journey to greatness completed successfully. You reached high Livello of greatness. Now, you are much greater than ever before. I knew what it takes to reach to this Livello and you made to this point. You are a real hero. Now, it is time to celebrate your success with a friend or with a family. I am looking forward to seeing you in an other challenge.
 
 ## Testimony
 

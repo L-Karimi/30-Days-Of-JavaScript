@@ -7,17 +7,17 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
-  <sub>Author:
+  <sub>Autore:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
+  <small> Gennaio, 2020</small>
   </sub>
 </div>
 
 [<< Day 7](../07_Day_Functions/07_day_functions.md) | [Day 9 >>](../09_Day_Higher_order_functions/09_day_higher_order_functions.md)
 
-![Thirty Days Of JavaScript](../images/banners/day_1_8.png)
+![Thirty Days Of JavaScript](../../images/banners/day_1_8.png)
 
-- [📔 Day 8](#-day-8)
+- [📔 Giorno 8](#-day-8)
 	- [Scope](#scope)
 		- [Window Global Object](#window-global-object)
 		- [Global scope](#global-scope)
@@ -33,12 +33,12 @@
 			- [Getting object values using Object.values()](#getting-object-values-using-objectvalues)
 			- [Getting object keys and values using Object.entries()](#getting-object-keys-and-values-using-objectentries)
 			- [Checking properties using hasOwnProperty()](#checking-properties-using-hasownproperty)
-	- [💻 Exercises](#-exercises)
-		- [Exercises: Level 1](#exercises-level-1)
-		- [Exercises: Level 2](#exercises-level-2)
-		- [Exercises: Level 3](#exercises-level-3)
+	- [💻 Esercizi](#-exercises)
+		- [Esercizi: Livello 1](#exercises-level-1)
+		- [Esercizi: Livello 2](#exercises-level-2)
+		- [Esercizi: Livello 3](#exercises-level-3)
 
-# 📔 Day 8
+# 📔 Giorno 8
 
 ## Scope
 
@@ -425,9 +425,9 @@ console.log(copyPerson.hasOwnProperty('score'))
 
 🌕 You are astonishing. Now, you are super charged with the power of objects. You have just completed day 8 challenges and you are 8 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
 
-## 💻 Exercises
+## 💻 Esercizi
 
-### Exercises: Level 1
+### Esercizi: Livello 1
 
 1. Create an empty object called dog
 1. Print the the dog object on the console
@@ -435,7 +435,7 @@ console.log(copyPerson.hasOwnProperty('score'))
 1. Get name, legs, color, age and bark value from the dog object
 1. Set new properties the dog object: breed, getDogInfo
 
-### Exercises: Level 2
+### Esercizi: Livello 2
 
 1. Find the person who has many skills in the users object.
 1. Count logged in users, count users having greater than equal to 50 points from the following object.
@@ -499,7 +499,7 @@ console.log(copyPerson.hasOwnProperty('score'))
 1. Get all the values of users object
 1. Use the countries object to print a country name, capital, populations and languages.
 
-### Exercises: Level 3
+### Esercizi: Livello 3
 
 1. Create an object literal called _personAccount_. It has _firstName, lastName, incomes, expenses_ properties and it has _totalIncome, totalExpense, accountInfo,addIncome, addExpense_ and _accountBalance_ methods. Incomes is a set of incomes and its description and expenses is a set of incomes and its description.
 2. **** Questions:2, 3 and 4 are based on the following two arrays:users and products ()
@@ -590,6 +590,6 @@ console.log(copyPerson.hasOwnProperty('score'))
 4. Create a function called likeProduct. This function will helps to like to the product if it is not liked and remove like if it was liked.
 
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 CONGRATULAZIONI ! 🎉
 
 [<< Day 7](../07_Day_Functions/07_day_functions.md) | [Day 9 >>](../09_Day_Higher_order_functions/09_day_higher_order_functions.md)

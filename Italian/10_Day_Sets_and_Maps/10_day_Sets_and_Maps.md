@@ -7,16 +7,16 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
-<sub>Author:
+<sub>Autore:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
+<small> Gennaio, 2020</small>
 </sub>
 
 </div>
 
 [<< Day 9](../09_Day_Higher_order_functions/09_day_higher_order_functions.md) | [Day 11>>](../11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)
 
-![Day 10](../images/banners/day_1_10.png)
+![Day 10](../../images/banners/day_1_10.png)
 
 - [Day 10](#day-10)
 	- [Set](#set)
@@ -35,10 +35,10 @@
 		- [Adding values to the Map](#adding-values-to-the-map)
 		- [Getting a value from Map](#getting-a-value-from-map)
 		- [Checking key in Map](#checking-key-in-map)
-	- [Exercises](#exercises)
-		- [Exercises:Level 1](#exerciseslevel-1)
-		- [Exercises:Level 2](#exerciseslevel-2)
-		- [Exercises:Level 3](#exerciseslevel-3)
+	- [Esercizi](#exercises)
+		- [Esercizi:Level 1](#exerciseslevel-1)
+		- [Esercizi:Level 2](#exerciseslevel-2)
+		- [Esercizi:Level 3](#exerciseslevel-3)
 
 # Day 10
 
@@ -380,9 +380,9 @@ Norway Oslo
 
 🌕 You established a big milestone, you are unstoppable. Keep going! You have just completed day 10 challenges and you are 10 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
 
-## Exercises
+## Esercizi
 
-### Exercises:Level 1
+### Esercizi:Level 1
 
 ```js
 const a = [4, 5, 8, 9]
@@ -397,13 +397,13 @@ const countries = ['Finland', 'Sweden', 'Norway']
 5. Create a set of 5 string elements from array
 6. Create a map of countries and number of characters of a country
 
-### Exercises:Level 2
+### Esercizi:Level 2
 
 1. Find a union b
 2. Find a intersection b
 3. Find a with b
 
-### Exercises:Level 3
+### Esercizi:Level 3
 
 1. How many languages are there in the countries object file.
 
@@ -435,6 +435,6 @@ const countries = ['Finland', 'Sweden', 'Norway']
   ]
 ```
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 CONGRATULAZIONI ! 🎉
 
 [<< Day 9](../09_Day_Higher_order_functions/09_day_higher_order_functions.md) | [Day 11 >>](../11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)

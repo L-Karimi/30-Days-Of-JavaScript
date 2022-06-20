@@ -7,16 +7,16 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
-<sub>Author:
+<sub>Autore:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
+<small> Gennaio, 2020</small>
 </sub>
 
 </div>
 
 [<< Day 12](../12_Day_Regular_expressions/12_day_regular_expressions.md) | [Day 14>>](../14_Day_Error_handling/14_day_error_handling.md)
 
-![Thirty Days Of JavaScript](../images/banners/day_1_13.png)
+![Thirty Days Of JavaScript](../../images/banners/day_1_13.png)
 
 - [Day 13](#day-13)
 	- [Console Object Methods](#console-object-methods)
@@ -30,10 +30,10 @@
 		- [console.group()](#consolegroup)
 		- [console.count()](#consolecount)
 		- [console.clear()](#consoleclear)
-	- [Exercises](#exercises)
-		- [Exercises:Level 1](#exerciseslevel-1)
-		- [Exercises:Level 2](#exerciseslevel-2)
-		- [Exercises:Level 3](#exerciseslevel-3)
+	- [Esercizi](#exercises)
+		- [Esercizi:Level 1](#exerciseslevel-1)
+		- [Esercizi:Level 2](#exerciseslevel-2)
+		- [Esercizi:Level 3](#exerciseslevel-3)
 
 # Day 13
 
@@ -335,24 +335,24 @@ The console.clear() cleans the browser console.
 
 🌕 Keep up the good work. Keep pushing, the sky is the limit! You have just completed day 13 challenges and you are 13 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
 
-## Exercises
+## Esercizi
 
-### Exercises:Level 1
+### Esercizi:Level 1
 
 1.  Display the countries array as a table
 2.  Display the countries object as a table
 3.  Use console.group() to group logs
 
-### Exercises:Level 2
+### Esercizi:Level 2
 
 1. 10 > 2 \* 10 use console.assert()
 2. Write a warning message using console.warn()
 3. Write an error message using console.error()
 
-### Exercises:Level 3
+### Esercizi:Level 3
 
 1. Check the speed difference among the following loops: while, for, for of, forEach
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 CONGRATULAZIONI ! 🎉
 
 [<< Day 12](../12_Day_Regular_expressions/12_day_regular_expressions.md) | [Day 14>>](../14_Day_Error_handling/14_day_error_handling.md)

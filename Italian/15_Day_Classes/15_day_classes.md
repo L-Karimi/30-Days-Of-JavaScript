@@ -7,16 +7,16 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
-<sub>Author:
+<sub>Autore:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
+<small> Gennaio, 2020</small>
 </sub>
 
 </div>
 
 [<< Day 14](../14_Day_Error_handling/14_day_error_handling.md) | [Day 16>>](../16_Day_JSON/16_day_json.md)
 
-![Thirty Days Of JavaScript](../images/banners/day_1_15.png)
+![Thirty Days Of JavaScript](../../images/banners/day_1_15.png)
 
 - [Day 15](#day-15)
 	- [Classes](#classes)
@@ -31,10 +31,10 @@
 		- [Static method](#static-method)
 	- [Inheritance](#inheritance)
 		- [Overriding methods](#overriding-methods)
-	- [Exercises](#exercises)
-		- [Exercises Level 1](#exercises-level-1)
-		- [Exercises Level 2](#exercises-level-2)
-		- [Exercises Level 3](#exercises-level-3)
+	- [Esercizi](#exercises)
+		- [Esercizi Livello 1](#exercises-level-1)
+		- [Esercizi Livello 2](#exercises-level-2)
+		- [Esercizi Livello 3](#exercises-level-3)
 
 # Day 15
 
@@ -58,7 +58,7 @@ class ClassName {
 
 ```
 
-**Example:**
+**Esempio:**
 
 ```js
 class Person {
@@ -660,18 +660,18 @@ Now, the getPersonInfo method has been overridden and it identifies if the perso
 
 🌕 You are excelling. Now, you knew class and you have the power to turn everything to an object. You made it to half way to your way to greatness. Now do some exercises for your brain and for your muscle.
 
-## Exercises
+## Esercizi
 
-### Exercises Level 1
+### Esercizi Livello 1
 
 1. Create an Animal class. The class will have name, age, color, legs properties and create different methods
 2. Create a Dog and Cat child class from the Animal Class.
 
-### Exercises Level 2
+### Esercizi Livello 2
 
 1. Override the method you create in Animal class
 
-### Exercises Level 3
+### Esercizi Livello 3
 
 1. Let's try to develop a program which calculate measure of central tendency of a sample(mean, median, mode) and measure of variability(range, variance, standard deviation). In addition to those measures find the min, max, count, percentile, and frequency distribution of the sample. You can create a class called Statistics and create all the functions which do statistical calculations as method for the Statistics class. Check the output below.
 
@@ -710,6 +710,6 @@ Frequency Distribution: [(20.0, 26), (16.0, 27), (12.0, 32), (8.0, 37), (8.0, 34
 
 1. Create a class called PersonAccount. It has firstname, lastname, incomes, expenses properties and it has totalIncome, totalExpense, accountInfo,addIncome, addExpense and accountBalance methods. Incomes is a set of incomes and its description and expenses is also a set of expenses and its description.
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 CONGRATULAZIONI ! 🎉
 
 [<< Day 14](../14_Day_Error_handling/14_day_error_handling.md) | [Day 16>>](../16_Day_JSON/16_day_json.md)

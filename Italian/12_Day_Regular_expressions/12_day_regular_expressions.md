@@ -7,15 +7,15 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
-  <sub>Author:
+  <sub>Autore:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
+  <small> Gennaio, 2020</small>
   </sub>
 </div>
 
 [<< Day 11](../11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md) | [Day 13>>](../13_Day_Console_object_methods/13_day_console_object_methods.md)
 
-![Thirty Days Of JavaScript](../images/banners/day_1_12.png)
+![Thirty Days Of JavaScript](../../images/banners/day_1_12.png)
 
 - [📘 Day 12](#-day-12)
 	- [Regular Expressions](#regular-expressions)
@@ -37,10 +37,10 @@
 		- [Quantifier in RegExp](#quantifier-in-regexp)
 		- [Cart ^](#cart-)
 		- [Exact match](#exact-match)
-	- [💻 Exercises](#-exercises)
-		- [Exercises: Level 1](#exercises-level-1)
-		- [Exercises: Level 2](#exercises-level-2)
-		- [Exercises: Level 3](#exercises-level-3)
+	- [💻 Esercizi](#-exercises)
+		- [Esercizi: Livello 1](#exercises-level-1)
+		- [Esercizi: Livello 2](#exercises-level-2)
+		- [Esercizi: Livello 3](#exercises-level-3)
 
 # 📘 Day 12
 
@@ -437,9 +437,9 @@ console.log(result) // true
 
 🌕 You are going far. Keep going! Now, you are super charged with the power of regular expression. You have the power to extract and clean any kind of text and you can make meaning out of unstructured data. You have just completed day 12 challenges and you are 12 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
 
-## 💻 Exercises
+## 💻 Esercizi
 
-### Exercises: Level 1
+### Esercizi: Livello 1
 
 1. Calculate the total annual income of the person from the following text. ‘He earns 4000 euro from salary per month, 10000 euro annual bonus, 5500 euro online courses per month.’
 1. The position of some particles on the horizontal x-axis -12, -4, -3 and  -1 in the negative direction, 0 at origin, 4 and 8 in the positive direction. Extract these numbers and find the distance between the two furthest particles.
@@ -459,7 +459,7 @@ distance = 12
     is_valid_variable('firstname') # True
     ```
 
-### Exercises: Level 2
+### Esercizi: Livello 2
 
 1. Write a function called *tenMostFrequentWords* which get the ten most frequent word from a string?
 
@@ -512,7 +512,7 @@ distance = 12
     ]
     ```
 
-### Exercises: Level 3
+### Esercizi: Livello 3
 
 1. Writ a function which cleans text. Clean the following text. After cleaning, count three most frequent words in the string.
   
@@ -531,6 +531,6 @@ distance = 12
     [{word:'I', count:3}, {word:'teaching', count:2}, {word:'teacher', count:2}]
   ```
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 CONGRATULAZIONI ! 🎉
 
 [<< Day 11](../11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md) | [Day 13 >>](../13_Day_Console_object_methods/13_day_console_object_methods.md)

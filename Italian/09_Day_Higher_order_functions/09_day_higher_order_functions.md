@@ -7,16 +7,16 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
-<sub>Author:
+<sub>Autore:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
+<small> Gennaio, 2020</small>
 </sub>
 
 </div>
 
 [<< Day 8](../08_Day_Objects/08_day_objects.md) | [Day 10 >>](../10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)
 
-![Day 5](../images/banners/day_1_9.png)
+![Day 5](../../images/banners/day_1_9.png)
 
 - [Day 9](#day-9)
 	- [Higher Order Function](#higher-order-function)
@@ -38,10 +38,10 @@
 			- [Sorting string values](#sorting-string-values)
 			- [Sorting Numeric values](#sorting-numeric-values)
 			- [Sorting Object Arrays](#sorting-object-arrays)
-	- [💻 Exercises](#-exercises)
-		- [Exercises: Level 1](#exercises-level-1)
-		- [Exercises: Level 2](#exercises-level-2)
-		- [Exercises: Level 3](#exercises-level-3)
+	- [💻 Esercizi](#-exercises)
+		- [Esercizi: Livello 1](#exercises-level-1)
+		- [Esercizi: Livello 2](#exercises-level-2)
+		- [Esercizi: Livello 3](#exercises-level-3)
 
 # Day 9
 
@@ -552,9 +552,9 @@ console.log(users) // sorted ascending
 
 🌕 You are doing great.Never give up because great things take time. You have just completed day 9 challenges and you are 9 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
 
-## 💻 Exercises
+## 💻 Esercizi
 
-### Exercises: Level 1
+### Esercizi: Livello 1
 
 ```js
 const countries = ['Finland', 'Sweden', 'Denmark', 'Norway', 'IceLand']
@@ -597,7 +597,7 @@ const products = [
 25. Use **_findIndex_** to find the position of **_Norway_** if it doesn't exist in the array you will get -1.
 26. Use **_findIndex_** to find the position of **_Russia_** if it doesn't exist in the array you will get -1.
 
-### Exercises: Level 2
+### Esercizi: Livello 2
 
 1. Find the total price of products by chaining two or more array iterators(eg. arr.map(callback).filter(callback).reduce(callback))
 1. Find the sum of price of products using only reduce reduce(callback))
@@ -607,7 +607,7 @@ const products = [
 1. Declare a **_getLastTenCountries_** function which which returns the last ten countries in the countries array.
 1. Find out which _letter_ is used many _times_ as initial for a country name from the countries array (eg. Finland, Fiji, France etc)
 
-### Exercises: Level 3
+### Esercizi: Livello 3
 
 1. Use the countries information, in the data folder. Sort countries by name, by capital, by population
 1. \*\*\* Find the 10 most spoken languages:
@@ -700,6 +700,6 @@ const products = [
    Frequency Distribution: [(20.0, 26), (16.0, 27), (12.0, 32), (8.0, 37), (8.0, 34), (8.0, 33), (8.0, 31), (8.0, 24), (4.0, 38), (4.0, 29), (4.0, 25)]
    ```
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 CONGRATULAZIONI ! 🎉
 
 [<< Day 8](../08_Day_Objects/08_day_objects.md) | [Day 10 >>](../10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)

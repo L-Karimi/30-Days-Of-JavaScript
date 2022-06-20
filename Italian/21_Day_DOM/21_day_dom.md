@@ -7,16 +7,16 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
-<sub>Author:
+<sub>Autore:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
+<small> Gennaio, 2020</small>
 </sub>
 
 </div>
 
 [<< Day 20](../20_Day_Writing_clean_codes/20_day_writing_clean_codes.md) | [Day 22 >>](../22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)
 
-![Thirty Days Of JavaScript](../images/banners/day_1_21.png)
+![Thirty Days Of JavaScript](../../images/banners/day_1_21.png)
 
 - [Day 21](#day-21)
 	- [Document Object Model (DOM) - Day 1](#document-object-model-dom---day-1)
@@ -39,10 +39,10 @@
 			- [Adding Style Color](#adding-style-color)
 			- [Adding Style Background Color](#adding-style-background-color)
 			- [Adding Style Font Size](#adding-style-font-size)
-	- [Exercises](#exercises)
-		- [Exercise: Level 1](#exercise-level-1)
-		- [Exercise: Level 2](#exercise-level-2)
-		- [Exercise: Level 3](#exercise-level-3)
+	- [Esercizi](#exercises)
+		- [Exercise: Livello 1](#exercise-level-1)
+		- [Exercise: Livello 2](#exercise-level-2)
+		- [Exercise: Livello 3](#exercise-level-3)
 			- [DOM: Mini project 1](#dom-mini-project-1)
 
 # Day 21
@@ -346,9 +346,9 @@ As you have notice, the properties of css when we use it in JavaScript is going 
 
 🌕 Now,  you are fully charged with a super power, you have completed the most important and challenging part of the challenge and in general JavaScript. You learned DOM and now you have the capability to build and develop applications. Now do some exercises for your brain and for your muscle.
 
-## Exercises
+## Esercizi
 
-### Exercise: Level 1
+### Exercise: Livello 1
 
 1. Create an index.html file and put four p elements as above: Get the first paragraph by using **_document.querySelector(tagname)_** and tag name
 2. Get each of the the paragraph using **_document.querySelector('#id')_** and by their id
@@ -357,13 +357,13 @@ As you have notice, the properties of css when we use it in JavaScript is going 
 5. Set a text content to paragraph the fourth paragraph,**_Fourth Paragraph_**
 6. Set id and class attribute for all the paragraphs using different attribute setting methods
 
-### Exercise: Level 2
+### Exercise: Livello 2
 
 1. Change stye of each paragraph using JavaScript(eg. color, background, border, font-size, font-family)
 1. Select all paragraphs and loop through each elements and give the first and third paragraph a color of green, and the second and the fourth paragraph a red color
 1. Set text content, id and class to each paragraph
 
-### Exercise: Level 3
+### Exercise: Livello 3
 
 #### DOM: Mini project 1
 
@@ -404,6 +404,6 @@ As you have notice, the properties of css when we use it in JavaScript is going 
 
 ![Project 2](../images/projects/dom_min_project_challenge_info_day_1.1.png)
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 CONGRATULAZIONI ! 🎉
 
 [<< Day 20](../20_Day_Writing_clean_codes/20_day_writing_clean_codes.md) | [Day 22 >>](../22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)
